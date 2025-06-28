@@ -1,6 +1,7 @@
 # 📞 Contact Page – ReactJS + TailwindCSS
 
-A responsive and interactive contact page built with **ReactJS** and **Tailwind CSS**. This UI allows users to reach out via chat, call, or email form, with a clean, modern design and functional behavior.
+A clean, modern, and fully responsive **Contact Page UI** built using **ReactJS** and **Tailwind CSS**.  
+This is a **front-end-only project** created for presentation and portfolio purposes — the form and buttons do not connect to any backend or real API.
 
 ---
 
@@ -14,19 +15,20 @@ A responsive and interactive contact page built with **ReactJS** and **Tailwind 
 
 ## ✨ Features
 
-- Responsive layout using TailwindCSS
-- Contact options:
-  - Support Chat button
-  - Phone call button with confirmation popup
-  - Contact form (Name, Email, Description)
-- Clean UI with hover and active effects
-- Component-based structure using React
+- Responsive layout with TailwindCSS
+- UI buttons for:
+  - Support Chat
+  - Call (with confirmation prompt)
+  - Email form (Name, Email, Description fields)
+- Clean styling with hover and active states
+- Functional button interaction (UI only, no backend logic)
+- Built using reusable React components
 
 ---
 
 ## 🚀 Getting Started
 
-Follow these steps to run the project locally:
+To run the app locally on your machine:
 
 ```bash
 # 1. Clone the repository
